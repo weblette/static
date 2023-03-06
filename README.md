@@ -1,0 +1,2 @@
+# static
+start of pages
